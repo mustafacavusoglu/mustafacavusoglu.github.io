@@ -1,0 +1,44 @@
+[
+    {
+        "name": "RAG-Langchain",
+        "description": "RAG Chat application using Langchain, OpenAI and Streamlit",
+        "url": "https://github.com/mustafacavusoglu/RAG-Langchain",
+        "language": "Python",
+        "stars": "3"
+    },
+    {
+        "name": "fast-api-yolov5-deploy-on-aws",
+        "description": "",
+        "url": "https://github.com/mustafacavusoglu/fast-api-yolov5-deploy-on-aws",
+        "language": "Python",
+        "stars": "1"
+    },
+    {
+        "name": "pytube-PyQt5",
+        "description": "",
+        "url": "https://github.com/mustafacavusoglu/pytube-PyQt5",
+        "language": "Python",
+        "stars": "1"
+    },
+    {
+        "name": "PyTorch-Training-Script",
+        "description": "",
+        "url": "https://github.com/mustafacavusoglu/PyTorch-Training-Script",
+        "language": "Python",
+        "stars": "1"
+    },
+    {
+        "name": "yolo-5-7-DataPrep",
+        "description": "Mask olan segmentation verilerinden yolo modelleri i\u00e7in e\u011fitim verilerinin haz\u0131rlanmas\u0131",
+        "url": "https://github.com/mustafacavusoglu/yolo-5-7-DataPrep",
+        "language": "Python",
+        "stars": "1"
+    },
+    {
+        "name": "segmentation-flask-app",
+        "description": "",
+        "url": "https://github.com/mustafacavusoglu/segmentation-flask-app",
+        "language": "JavaScript",
+        "stars": "1"
+    }
+]
