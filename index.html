@@ -86,6 +86,19 @@
 
 
   </script>
+  <script>
+  document.addEventListener('DOMContentLoaded', function() {
+    document.querySelectorAll('a').forEach(function(link) {
+      link.addEventListener('click', function() {
+        gtag('event', 'click', {
+          'event_category': 'link',
+          'event_label': link.href
+        });
+      });
+    });
+  });
+</script>
+
 </body>
 
 </html>
